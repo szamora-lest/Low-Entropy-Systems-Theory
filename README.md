@@ -52,3 +52,19 @@ Stuck = accumulation**
 ## Learn More
 
 See `/docs/LEST_v1.6.md` for the full framework.
+
+---
+
+## Attribution
+
+Created by Stephany Zamora  
+LEST (Low Entropy Systems Theory)
+
+This work is shared under CC BY 4.0.  
+Attribution appreciated when referenced or adapted.
+
+---
+
+## Philosophy
+
+> **LEST uses thermodynamic principles as a foundation to describe how systems tend to degrade, accumulate, and require continuous flow to maintain performance.**
