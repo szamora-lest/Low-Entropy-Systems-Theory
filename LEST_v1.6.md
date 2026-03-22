@@ -2,8 +2,8 @@
 
 *A governing dynamic for understanding performance, coherence, and system behavior across physical, biological, behavioral, and sociological domains*
 
-Author: [Your Name]  
-Date: 2026  
+Author: [Stephany Zamora]  
+Date: March 22, 2026  
 
 ---
 
