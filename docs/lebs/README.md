@@ -74,21 +74,9 @@ Conversely:
 
 ## Compounding Model
 
-\[
-g_{effective} = g_{base} - \alpha DL + \beta CV
-\]
+g_effective = g_base − (α × DL) + (β × CV)
 
-\[
-V_t = V_0 \cdot (1 + g_{effective})^t
-\]
-
-Where:
-
-- \(DL\) = Distortion Load  
-- \(CV\) = Correction Velocity  
-- \(\alpha, \beta\) = sensitivity parameters  
-- \(g_{base}\) = baseline growth  
-- \(t\) = time  
+V_t = V_0 × (1 + g_effective)^t
 
 ---
 
