@@ -17,6 +17,19 @@ The result is a system that compounds value more effectively over time.
 
 ---
 
+## Context
+
+> **When systems optimize for attention, distortion increases.  
+When systems optimize for coherence, efficiency improves.**
+
+> **The Attention Economy prioritizes engagement.  
+The next competitive advantage is coherence.**
+
+> **As attention becomes saturated, coherence becomes scarce.  
+Scarcity creates opportunity.**
+
+---
+
 ## Core Principle
 
 > **Distortion Load reduces the rate of value compounding.  
