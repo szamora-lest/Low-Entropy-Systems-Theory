@@ -127,6 +127,23 @@ LEBS makes these dynamics observable, measurable, and operational.
 
 ---
 
+### Entropy in Business Systems
+
+In LEST, entropy describes the natural tendency of systems to drift toward disorder.
+
+In business systems, this drift appears as distortion:
+
+- signals degrade  
+- incentives misalign  
+- decisions lose accuracy  
+- work shifts away from value creation  
+
+> **Distortion Load is the operational expression of entropy in business systems.**
+
+LEBS focuses on reducing this distortion and increasing the system’s ability to correct it.
+
+---
+
 ## Practical Framing
 
 > **The problem is not effort.  
